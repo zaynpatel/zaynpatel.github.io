@@ -1,0 +1,28 @@
+html, body {
+    font-family: sans-serif;
+    margin-right: 75px;
+    margin-left: 75px;
+    word-wrap: break-word;
+    margin-bottom: 50px;
+}
+
+body img {
+    max-width: 250px;
+    max-height: 250px;
+    text-align: auto;
+    border-radius: 0px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+ul {
+    line-height: 2;
+}
+
+.testing {
+    display: block;
+    margin: 8px;
+    word-wrap: break-word;
+    width: 600px;
+}
+
