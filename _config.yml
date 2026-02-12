@@ -21,15 +21,20 @@
 title: Zayn Patel
 email: zaynpatelwhs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My home on the internet where I get to write about the things I learn.
+  Writing about things I learn.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: zaynpatel
+youtube_username: zaynpatel8959
+youtube_url: https://www.youtube.com/@zaynpatel8959
+linkedin_username: zaynpatel
+linkedin_url: https://www.linkedin.com/in/zaynpatel/
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
